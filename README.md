@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# pratice 아무agsgagag
+# pratice 아무agsgagag 
+Feature/a 기능 개발 완료
 
 =======
 # practice
